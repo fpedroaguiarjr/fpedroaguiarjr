@@ -1,7 +1,7 @@
-### Meu nome é Francisco Pedro de Aguiar Junior 🗣️. Estou aqui para falar de Dados (Data), programação e pesquisas.
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/francisco-pedro-de-aguiar-junior-a02177113)[![Linkedin](	https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/pedroaguiarpedro9/)[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Franciscopajr)
 
-
+### Meu nome é Francisco Pedro de Aguiar Junior (Pedro Aguiar)
+### 🗣️ Estou aqui para falar de Dados (Data), programação e pesquisas.
 [![](https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white)](pedroaguir.oficial@protonmail.com)
 
 INTERESSES<br>
